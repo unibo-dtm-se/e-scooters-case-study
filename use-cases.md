@@ -157,5 +157,5 @@ Extensions:
 
 ### Use Case Diagram ###
 
-![Use Case Diagram](https://github.com/unibo-dtm-se/e-scooters-case-study/use-cases.png)
+![Use Case Diagram](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/use-cases.png)
 
