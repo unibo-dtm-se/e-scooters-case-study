@@ -19,12 +19,15 @@ v.0.9.1-20240401
     - using a [E-Scooters EventStorming Miro board](https://miro.com/app/board/uXjVKTpmQkU=/?share_link_id=462632821849)
 - Formulating a first version of Ubiquitous language (UL)
 - Defining use cases 
+    - using [Visual Paradigm](https://online.visual-paradigm.com/) 
 
 *DELIVERABLES*
 
-- Set of User Stories
-- Set of Use Cases 
-- UL Glossary
+- [UL Glossary](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/glossary.md)
+- [Set of User Stories](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/user-stories.md)
+- [Set of Use Cases](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/use-cases.md)
+
+    
 
 **From Analysis to Design**
 
