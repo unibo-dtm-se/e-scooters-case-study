@@ -15,11 +15,12 @@ v.0.9.1-20240401
 **Analysis - Understanding the Problem - (Initial) Knowledge Crunching and Requirements Definition** 
 	
 - Writing down some user stories
-- Doing event storming
+- Doing event storming 
     - using a [E-Scooters EventStorming Miro board](https://miro.com/app/board/uXjVKTpmQkU=/?share_link_id=462632821849)
 - Formulating a first version of Ubiquitous language (UL)
 - Defining use cases 
-    - using [Visual Paradigm](https://online.visual-paradigm.com/) 
+	- using [StarUML](https://staruml.io/)  
+   - using [Visual Paradigm](https://online.visual-paradigm.com/) 
 
 *DELIVERABLES*
 
@@ -31,13 +32,15 @@ v.0.9.1-20240401
 
 **From Analysis to Design**
 
-- Defining and coding a first domain model 
+- Building a first domain model, including an implementation 
+	- Representing the domain model in UML (Class Diagrams) 
+		- using [StarUML](https://staruml.io/) 
 - Defining the UI and UX (not discussed in this course)
 
 *DELIVERABLES*
 
 - [A description of the domain model](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/domain-model.md)
-- An implementation of the domain model in any Object-Oriented language (e.g. Javascript, Python) and 
+- An implementation of the domain model in any Object-Oriented language (e.g. Javascript, Python) 
 - UI mocks
 
 **Refining the Analysis and Design: Subdomains and Bounded Contexts**
