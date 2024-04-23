@@ -36,7 +36,7 @@ v.0.9.1-20240401
 
 *DELIVERABLES*
 
-- UML description of the domain model
+- [A description of the domain model](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/domain-model.md)
 - An implementation of the domain model in any Object-Oriented language (e.g. Javascript, Python) and 
 - UI mocks
 
