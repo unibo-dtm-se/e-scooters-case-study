@@ -27,7 +27,7 @@ The domain model is an object model of the E-Scooters domain, based on the Ubiqu
 
 ## UML Class Diagram ##
 
-![Use Case Diagram](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/e-scooter-domain-model-UML.png)
+![UML Domain Model Diagram](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/domain-model-UML.png)
 
 
 
