@@ -40,7 +40,7 @@ v.0.9.1-20240401
 *DELIVERABLES*
 
 - [A description of the domain model](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/domain-model.md)
-- An implementation of the domain model in any Object-Oriented language (e.g. Javascript, Python) 
+- [An implementation of the domain model](https://github.com/unibo-dtm-se/e-scooters-domain-model-monolitic/README.md) in any Object-Oriented language (e.g. Javascript, Python) 
 - UI mocks
 
 **Refining the Analysis and Design: Subdomains and Bounded Contexts**
@@ -50,7 +50,8 @@ v.0.9.1-20240401
 
 *DELIVERABLES*
 
-- ...
+- [Bounded Contexts description](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/bounded-contexts.md)
+- Context Map
 
 **Design - Software Architecture**    
 
@@ -59,12 +60,13 @@ v.0.9.1-20240401
 
 *DELIVERABLES*
 
-- ...
+- [A high-level description of the Software Architecture](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/sw-architecture.md)
 
-**Prototype implementation** 
+**Prototype implementation and deployment** 
 
 - Selecting a core subset of the architecture and implement a prototype, capturing key aspects and functionalities
 
 *DELIVERABLES*
 
-- ...
+- [Prototype source code](https://github.com/unibo-dtm-se/e-scooter-final-prototype) and [deployment instruction](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/prototype-dev-deplo.md).  
+
