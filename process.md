@@ -68,5 +68,5 @@ v.0.9.1-20240401
 
 *DELIVERABLES*
 
-- [Prototype source code](https://github.com/unibo-dtm-se/e-scooter-final-prototype) and [deployment instruction](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/prototype-dev-deplo.md).  
+- [Prototype source code](https://github.com/unibo-dtm-se/e-scooters-prototype) and [deployment instruction](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/prototype-dev-deplo.md).  
 
