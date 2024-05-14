@@ -57,10 +57,17 @@ v.0.9.1-20240401
 
 - Defining the Software Architecture of the system
     - Focusing on layered architectures and microservices
+- Using UML to represent the structure and behaviour of the system
+	- Components and Connectors structure -- UML component diagram
+	- Module structure -- UML Class diagram
+	- Allocation structures  -- UML Deployment diagram
 
+
+  
 *DELIVERABLES*
 
 - [A high-level description of the Software Architecture](https://github.com/unibo-dtm-se/e-scooters-case-study/blob/main/sw-architecture.md)
+- UML diagrams
 
 **Prototype implementation and deployment** 
 
